@@ -100,9 +100,9 @@ Lidera com impressionantes 93 mil reais em vendas na Brastemp. Essa performance 
 Utilizando o gráfico de pizza, observamos a proporção de vendas em diferentes segmentos. Destacam-se os seguintes pontos:  
 Segmento Doméstico:
 
-* Representa impressionantes 71,47% das vendas totais. Isso sugere uma forte demanda por produtos voltados para uso residencial. A preferência dos consumidores por produtos para uso doméstico é evidente, e investir em inovações nesse segmento pode ser estratégico.
+   * Representa impressionantes 71,47% das vendas totais. Isso sugere uma forte demanda por produtos voltados para uso residencial. A preferência dos consumidores por produtos para uso doméstico é evidente, e investir em inovações nesse segmento pode ser estratégico.
 
-  Segmento Industrial:
+Segmento Industrial:
 
   * Apesar de modestos 3,49% das vendas, há oportunidades para crescimento.  
   * Para alavancar esse crescimento pode:  
