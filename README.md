@@ -179,28 +179,34 @@ Na categoria de produtos, os celulares também têm um impacto positivo signific
      -	Monitore o segmento doméstico para evitar perdas no valor de vendas.  
      -	Cuide dos produtos de eletroportáteis para otimizar o desempenho
 
-####**5.4 Faixas de Vendas Por Categoria e Pontos de Vendas**  
+#### **5.4 Faixas de Vendas Por Categoria e Pontos de Vendas**  
 
 ![faixas de vendas](https://github.com/user-attachments/assets/c89d89fd-f583-41f7-b2b4-2519f5e861d2)
 
 	  
 **Gráfico de Faixa:**
--O gráfico de faixas é uma ferramenta visual que nos permite comparar categorias (neste caso, lojas) com base em uma métrica (vendas).  
--Cada faixa representa uma loja, e sua cor indica como estão as vendas de determinado segmento..  
+
+-	O gráfico de faixas é uma ferramenta visual que nos permite comparar categorias (neste caso, lojas) com base em uma métrica (vendas).  
+-	Cada faixa representa uma loja, e sua cor indica como estão as vendas de determinado segmento..  
     
 **Identificando Tendências:**
+
 Seguindo as faixas, podemos ver quais lojas estão se destacando e quais precisam de atenção.  
+
 -  As lojas com vendas mais altas terão faixas mais largas.  
 -  As lojas com vendas mais baixas terão faixas estreitas.  
     
 
 **Estratégias de Melhoria:**
-- Lojas com bom desempenho:  
+
+- Lojas com bom desempenho:
+  
 Analise o que está funcionando bem nessas lojas.  
-Compartilhe as melhores práticas com outras lojas.  
-- Lojas com desempenho inferior:  
-    	 -Identifique os obstáculos (por exemplo, localização, estoque, equipe).  
-  	 - Crie estratégias específicas para impulsionar as vendas nessas lojas.
+Compartilhe as melhores práticas com outras lojas.
+
+- Lojas com desempenho inferior:
+    	 -	Identifique os obstáculos (por exemplo, localização, estoque, equipe).  
+  	 - 	Crie estratégias específicas para impulsionar as vendas nessas lojas.
 
 
 ####**5.5 Performance de Vendedores por Regiões**
@@ -211,20 +217,26 @@ Compartilhe as melhores práticas com outras lojas.
 -Este relatório oferece insights valiosos sobre o desempenho dos vendedores em cada estado. Vamos detalhar:
 
 ** Indicadores de Desempenho:**  
+
 O objetivo é fornecer aos gestores informações claras e concisas sobre como os vendedores estão se saindo.  
 Os indicadores incluem métrica de vendas totais de cada um, por estado.  
-**Análise por Estado:**  
+
+**Análise por Estado:**
+
 -Para cada estado, avaliamos:  
-              - As vendas totais realizadas pelos vendedores.  
-** Estratégias Personalizadas: **
-   -Com base nos dados, os gestores podem:  
-       - Identificar os vendedores de alto desempenho e reconhecê-los.  
-       -Oferecer treinamento específico para melhorar o desempenho dos vendedores com resultados abaixo da média.  
-        -Criar estratégias personalizadas para cada estado, considerando suas particularidades.
+    - As vendas totais realizadas pelos vendedores.  
+    
+- **Estratégias Personalizadas:**
+- 
+  Com base nos dados, os gestores podem: 
+  - Identificar os vendedores de alto desempenho e reconhecê-los.
+  - Identificar os vendedores de alto desempenho e reconhecê-los.
+  - Criar estratégias personalizadas para cada estado, considerando suas particularidades.
 
 
 
-## ***6. Conclusão 📎 **
+
+## **6. Conclusão 📎 **
 
 Este projeto foi desenvolvido com o objetivo de aprimorar minhas habilidades em análise de indicadores de desempenho de equipes de vendas. Ao longo do projeto, adquiri uma compreensão aprofundada sobre a saúde financeira da loja e o desempenho das vendas, permitindo segmentar e entender como diferentes produtos, marcas e segmentos impactam a empresa. Identifiquei áreas que necessitam de maior atenção e manutenção para sustentar o sucesso.
 
