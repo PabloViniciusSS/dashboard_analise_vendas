@@ -163,8 +163,8 @@ O painel de **Principais Influenciadores** no Power BI é uma ferramenta poderos
 
 **Segmentos e Categorias:**  
    - **Aumento do Valor de Vendas:** 
-  	- O segmento Corporativo é o principal influenciador para aumentar o valor total de vendas.  
-	- Na categoria de produtos, os celulares também têm um impacto positivo significativo.
+  	- 	O segmento Corporativo é o principal influenciador para aumentar o valor total de vendas.  
+	- 	Na categoria de produtos, os celulares também têm um impacto positivo significativo.
 
    - **Diminuição do Valor de Vendas:**  
      	-	Quando se trata de diminuir o valor de vendas, o segmento doméstico é o fator crítico.  
@@ -227,7 +227,7 @@ Os indicadores incluem métrica de vendas totais de cada um, por estado.
 **Análise por Estado:**
 
 Para cada estado, avaliamos:  
-    - As vendas totais realizadas pelos vendedores.  
+- 	As vendas totais realizadas pelos vendedores.  
     
 - **Estratégias Personalizadas:**
 - 
