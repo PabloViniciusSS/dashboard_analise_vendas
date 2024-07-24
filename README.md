@@ -1,4 +1,4 @@
-# **📊 Projeto de Análise de Dados**
+# **📊 Projeto para Análise de Dados**
 
 ## **1. Compreensão do Negócio (Business Understanding) 📈**
 
