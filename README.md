@@ -122,14 +122,17 @@ Em resumo, esta página não apenas justifica o esforço de desenvolvimento, mas
 
 - **A Brastemp** lidera com impressionantes 93 mil reais em vendas. Essa performance robusta sugere uma demanda consistente por seus produtos. Para manter essa alta demanda e procura deve investir em:
   - **Inovação Contínua:** Investir em adquirir novos produtos e modelos para atrair clientes e ter mais variedade da marca.
-- **A Electrolux** registra modestos 7 mil reais em vendas. Aqui estão algumas estratégias para impulsionar suas vendas:
-  - **Feedback dos Clientes:** Realizar pesquisas para entender as percepções dos clientes sobre a marca e seus produtos e assim tentar entender o que faz ter baixo volume de vendas.
+    
+- **A Electrolux** registra modestos 7 mil reais em vendas. Aqui estão algumas estratégias para impulsionar suas vendas:  
+  - **Feedback dos Clientes:** Realizar pesquisas para entender as percepções dos clientes sobre a marca e seus produtos e assim tentar entender o que faz ter baixo volume de vendas.   
   - **Estratégias Promocionais:** Oferecer descontos ou brindes para atrair mais vendas para essa marca.
 
 #### **Gráfico de Pizza:**
+
 **Total de Vendas por Segmento:** Utilizando o gráfico de pizza, foi investigado a proporção de vendas em diferentes segmentos. Destacam-se os seguintes pontos:
 
 - **Segmento Doméstico:** Representa impressionantes 71,47% das vendas totais. Isso sugere uma forte demanda por produtos voltados para uso residencial. A preferência dos consumidores por produtos para uso doméstico é evidente, e investir nesse segmento pode ser estratégico.
+  
 - **Segmento Industrial:** Apesar de modestos 3,49% das vendas, há oportunidades para crescimento. Para alavancar esse crescimento pode:
   - Identificar possíveis necessidades dos clientes.
   - Diversificar os produtos a partir das necessidades da indústria.
@@ -144,15 +147,13 @@ Diversificação de Produtos:
 - Ofereça descontos específicos para eletroportáteis. Promoções sazonais ou bundles (combinações de produtos) podem estimular as vendas.
   
 **Estratégias de Marketing:**
-  -Destaque os benefícios dos eletroportáteis, como portabilidade, economia de espaço e praticidade.    
-  -Explore canais de marketing direcionados, como redes sociais e e-mail marketing.
+- Destaque os benefícios dos eletroportáteis, como portabilidade, economia de espaço e praticidade.    
+- Explore canais de marketing direcionados, como redes sociais e e-mail marketing.
     
 **Pesquisa Profunda:**
-  - Identifique os eletroportáteis mais vendidos e investigue por que alguns não estão saindo bem.   
-  -Avalie o feedback de clientes e considere ajustes nos produtos ou na comunicação.  
+- Identifique os eletroportáteis mais vendidos e investigue por que alguns não estão saindo bem.   
+- Avalie o feedback de clientes e considere ajustes nos produtos ou na comunicação.  
     
-
-
 ### **5.3 Principais Influenciadores de Vendas**
 
 ![principaisinfluciadores](https://github.com/user-attachments/assets/e2307ec1-dd93-40ee-8fc7-b8d101fe29cb)
@@ -160,21 +161,23 @@ Diversificação de Produtos:
 
 O painel de **Principais Influenciadores** no Power BI é uma ferramenta poderosa para entender os fatores que impactam o valor total de vendas. Vamos ver os detalhes:
 
-####**Segmentos e Categorias:**  
-     
-   * *Aumento do Valor de Vendas:** 
-O segmento Corporativo é o principal influenciador para aumentar o valor total de vendas.  
-Na categoria de produtos, os celulares também têm um impacto positivo significativo.  
-   **Diminuição do Valor de Vendas:**  
-     -	Quando se trata de diminuir o valor de vendas, o segmento doméstico é o fator crítico.  
-     -	Além disso, a categoria de eletroportáteis também contribui para essa diminuição.  
+**Segmentos e Categorias:**  
+   - **Aumento do Valor de Vendas:** 
+  	- O segmento Corporativo é o principal influenciador para aumentar o valor total de vendas.  
+	- Na categoria de produtos, os celulares também têm um impacto positivo significativo.
+
+   - **Diminuição do Valor de Vendas:**  
+     	-	Quando se trata de diminuir o valor de vendas, o segmento doméstico é o fator crítico.  
+        -	Além disso, a categoria de eletroportáteis também contribui para essa diminuição.  
          
 2. Estratégias e Ações:  
      
    **Corporativo:**  
-      -	Investir mais no segmento corporativo é essencial. Isso pode envolver estratégias de marketing direcionadas e uma equipe de vendas focada nesse público.  
+      -	Investir mais no segmento corporativo é essencial. Isso pode envolver estratégias de marketing direcionadas e uma equipe de vendas focada nesse público.
+        
    **Celulares:**  
-     -	Aumentar as vendas de celulares é uma oportunidade. Avalie campanhas específicas para essa categoria.  
+     -	Aumentar as vendas de celulares é uma oportunidade. Avalie campanhas específicas para essa categoria.
+       
    **Doméstico e Eletroportáteis:  
      -	Monitore o segmento doméstico para evitar perdas no valor de vendas.  
      -	Cuide dos produtos de eletroportáteis para otimizar o desempenho
@@ -209,21 +212,21 @@ Compartilhe as melhores práticas com outras lojas.
   	 - 	Crie estratégias específicas para impulsionar as vendas nessas lojas.
 
 
-####**5.5 Performance de Vendedores por Regiões**
+#### **5.5 Performance de Vendedores por Regiões**
 
 ![perfomacevendedor](https://github.com/user-attachments/assets/cdc3d807-6e20-4ae6-ad54-313a81fc00d8)
 
 
 -Este relatório oferece insights valiosos sobre o desempenho dos vendedores em cada estado. Vamos detalhar:
 
-** Indicadores de Desempenho:**  
+**Indicadores de Desempenho:**  
 
 O objetivo é fornecer aos gestores informações claras e concisas sobre como os vendedores estão se saindo.  
 Os indicadores incluem métrica de vendas totais de cada um, por estado.  
 
 **Análise por Estado:**
 
--Para cada estado, avaliamos:  
+Para cada estado, avaliamos:  
     - As vendas totais realizadas pelos vendedores.  
     
 - **Estratégias Personalizadas:**
@@ -232,8 +235,6 @@ Os indicadores incluem métrica de vendas totais de cada um, por estado.
   - Identificar os vendedores de alto desempenho e reconhecê-los.
   - Identificar os vendedores de alto desempenho e reconhecê-los.
   - Criar estratégias personalizadas para cada estado, considerando suas particularidades.
-
-
 
 
 ## **6. Conclusão 📎 **
