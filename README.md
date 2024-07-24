@@ -129,7 +129,7 @@ No Power BI foi utilizado para visualização dos dados os Cards, Gráfico de Ca
 
 #### *5\. Resultados Finais e Insights 💡*
 
-#### **5.1\. Desempenho Financeiro de Vendas**
+**5.1\. Desempenho Financeiro de Vendas**
 
 ![desempenho de vendas](https://github.com/user-attachments/assets/a1fd8274-acdc-409f-a070-87f232468200)
 
