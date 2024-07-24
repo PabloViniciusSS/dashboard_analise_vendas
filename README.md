@@ -100,7 +100,7 @@ Por exemplo, se uma venda tivesse um valor de R$ 1.000, custo de R$ 200 e comiss
 
 Nesta página, foram explorados três aspectos essenciais das vendas, bem como ferramentas visuais para uma compreensão mais clara.
 
-#### **5.1.1 Cards:**
+#### **Cards:**
 - **Valor Líquido das Vendas:** Vamos calcular o valor líquido das vendas, ou seja, o montante que efetivamente ficou com a empresa. Esse indicador é crucial para avaliar a saúde financeira da organização.
 - **Valor Bruto das Vendas:** Analisando o valor bruto obtido pelas vendas, antes de qualquer dedução. Esse número reflete o potencial de receita da empresa e sua capacidade de gerar negócios.
 - **Total de Produtos Vendidos:** Quantos produtos foram vendidos durante o período analisado? Essa métrica ajuda a entender a demanda e a eficácia das estratégias de vendas.
