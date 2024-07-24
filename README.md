@@ -178,7 +178,7 @@ O painel de **Principais Influenciadores** no Power BI é uma ferramenta poderos
    **Celulares:**  
      -	Aumentar as vendas de celulares é uma oportunidade. Avalie campanhas específicas para essa categoria.
        
-   **Doméstico e Eletroportáteis:  
+   **Doméstico e Eletroportáteis:**  
      -	Monitore o segmento doméstico para evitar perdas no valor de vendas.  
      -	Cuide dos produtos de eletroportáteis para otimizar o desempenho
 
@@ -217,7 +217,7 @@ Compartilhe as melhores práticas com outras lojas.
 ![perfomacevendedor](https://github.com/user-attachments/assets/cdc3d807-6e20-4ae6-ad54-313a81fc00d8)
 
 
--Este relatório oferece insights valiosos sobre o desempenho dos vendedores em cada estado. Vamos detalhar:
+Este relatório oferece insights valiosos sobre o desempenho dos vendedores em cada estado. Vamos detalhar:
 
 **Indicadores de Desempenho:**  
 
