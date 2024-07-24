@@ -1,4 +1,4 @@
-# **📊 Projeto para Análise de Dados**
+# **📊 Dashboard Comercial - Performance de Venda**
 
 ## **1. Compreensão do Negócio (Business Understanding) 📈**
 
