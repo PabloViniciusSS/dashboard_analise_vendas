@@ -127,7 +127,7 @@ Dax(Data Analysis Expressions): Foi utilizado para criar os cálculos das coluna
 
 No Power BI foi utilizado para visualização dos dados os Cards, Gráfico de Cascata, Tabelas Matriz, Gráfico de Coluna, Pizza, Funil, Faixa e o Painel de Principais Influenciadores.
 
-#### *5\. Resultados Finais e Insights 💡*
+#### ** 5\. Resultados Finais e Insights 💡**
 
 **5.1\. Desempenho Financeiro de Vendas**
 
