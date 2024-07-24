@@ -32,9 +32,10 @@ Proporcionar uma visão detalhada das vendas de uma empresa fictícia, criando d
 
 **Exemplo:**
 
-	**![][image1]**
+![produto](https://github.com/user-attachments/assets/7a39ec9f-0766-4002-a9eb-642909d0176a)
 
-	**Dados da Lojas:**
+
+**Dados da Lojas:**
 
 * **Loja (Tipo: Texto);**  
 * **Cidade (Tipo: Texto);**  
@@ -42,9 +43,10 @@ Proporcionar uma visão detalhada das vendas de uma empresa fictícia, criando d
 
 **Exemplos:**
 
-**![][image2]**
+![loja](https://github.com/user-attachments/assets/850ec2b3-518d-4567-92a6-b15c7a67ad79)
 
-	**Dados Vendedor:**
+
+**Dados Vendedor:**
 
 * **Vendedor 	(Tipo: Texto);**  
 * **ID-Vendedor	(Tipo: Numerico);**  
@@ -52,17 +54,19 @@ Proporcionar uma visão detalhada das vendas de uma empresa fictícia, criando d
 
 **Exemplos:**
 
-**![][image3]**
+![vendedor](https://github.com/user-attachments/assets/399e9ed0-761d-474f-af40-d6fbe7ab89a2)
 
-	**Dados Venda:**
+
+**Dados Venda:**
 
 * **Data Venda (Tipo: Data);**  
 * **ValorVenda (Tipo:Numerico);**  
-* **Custo 	         (Tipo:Numerico)**
+* **Custo      (Tipo:Numerico)**
 
 **Exemplos:**
 
-**![][image4]**
+
+![venda](https://github.com/user-attachments/assets/7d737c86-d9d7-4502-8471-c633d0cb5684)
 
 	
 
@@ -70,11 +74,13 @@ Proporcionar uma visão detalhada das vendas de uma empresa fictícia, criando d
 
 * **Limpeza e Transformação:** 
 
-  * Felizmente, os dados já chegaram organizados e estruturados, o que economizou tempo.  
+* Felizmente, os dados já chegaram organizados e estruturados, o que economizou tempo.  
       
-  * Foi realizado uma transformação nas colunas **ValorVenda** e **Custo**, convertendo os valores para o formato de moeda. Isso torna a análise mais coerente e legível.  
+* Foi realizado uma transformação nas colunas **ValorVenda** e **Custo**, convertendo os valores para o formato de moeda. Isso torna a análise mais coerente e legível.  
     **Exemplo:**  
-    ![][image5]
+
+   ![image](https://github.com/user-attachments/assets/e688f384-ea00-4fc4-af5b-abf1d3b14dbc)
+
 
   **3.1. Tabela Valor Comissão:**
 
@@ -86,7 +92,9 @@ Proporcionar uma visão detalhada das vendas de uma empresa fictícia, criando d
       
 
 **Exemplos**:  
-		![][image6]
+
+ ![image](https://github.com/user-attachments/assets/316dbfe6-c8e4-4144-9401-79a2bc77cb84)
+
 
 * Por exemplo, se uma venda tivesse um valor de R$ 1.000 e a comissão era de 5%, a comissão seria R$ 50\.
 
@@ -100,21 +108,24 @@ Proporcionar uma visão detalhada das vendas de uma empresa fictícia, criando d
     * Valor Líquido=Vendas\[ValorVenda\] − Vendas\[Custo\] − Vendas\[Valor Comissão\]  
       
 
-  **Exemplos:**  
-      			![][image7]  
+  **Exemplos:**
+
+![image](https://github.com/user-attachments/assets/60db799d-9fea-4c8c-97c7-f58402bc547a)
+
+      		
   * Por exemplo, se uma venda tivesse um valor de R$ 1.000, custo de R$ 200 e comissão de R$ 50, o valor líquido seria R$ 750\.
 
 ### **4\. Funcionalidades do Power BI Utilizadas e Aplicações 🔧**
 
 Para a transformação e os cálculos que foram mostrados anteriormente foi utilizado:
 
-	Power Query Editor: Utilizado para carregar e transformar os dados iniciais, e transformando algumas colunas para ajudar na análise dos dados. Por exemplo: a transformação das tabelas em Tipo Moeda.
+Power Query Editor: Utilizado para carregar e transformar os dados iniciais, e transformando algumas colunas para ajudar na análise dos dados. Por exemplo: a transformação das tabelas em Tipo Moeda.
 
-	Não foi necessário utilizar a modelagem de dados que está presente no Power BI, pois, só consta uma tabela.
+Não foi necessário utilizar a modelagem de dados que está presente no Power BI, pois, só consta uma tabela.
 
-	Dax(Data Analysis Expressions): Foi utilizado para criar os cálculos das colunas “Valor Comissão” e “Valor Líquido”.
+Dax(Data Analysis Expressions): Foi utilizado para criar os cálculos das colunas “Valor Comissão” e “Valor Líquido”.
 
-	No Power BI foi utilizado para visualização dos dados os Cards, Gráfico de Cascata, Tabelas Matriz, Gráfico de Coluna, Pizza, Funil, Faixa e o Painel de Principais Influenciadores.
+No Power BI foi utilizado para visualização dos dados os Cards, Gráfico de Cascata, Tabelas Matriz, Gráfico de Coluna, Pizza, Funil, Faixa e o Painel de Principais Influenciadores.
 
 **5\. Resultados Finais e Insights 💡**
 
@@ -153,7 +164,9 @@ Nesta página, foram explorados três aspectos essenciais das vendas, bem como f
 
 Em resumo, esta página não apenas justifica o esforço de desenvolvimento, mas também oferece insights valiosos para a tomada de decisões estratégicas. Afinal, compreender os números é o primeiro passo para impulsionar o sucesso da empresa.
 
-**5.2 Nivel Inteligencia**
+**5.2 Narrativa Inteligencia**
+
+![narrativa inteligente](https://github.com/user-attachments/assets/cf6216f7-9fda-4ed0-b683-b3426b9d379e)
 
 **Gráfico de Coluna**:   
 Total de Vendas por Fabricantes: observa a distribuição das vendas entre diferentes fabricantes.   
@@ -170,11 +183,11 @@ No extremo oposto, a Electrolux registra modestos 7 mil reais em vendas. Aqui es
 
 Total de Vendas por Segmento: Utilizando o gráfico de pizza, foi investigado a proporção de vendas em diferentes segmentos. Destacam-se os seguintes pontos:
 
-**5.3 Segmento Doméstico:
+Segmento Doméstico:
 
 * Representa impressionantes 71,47% das vendas totais. Isso sugere uma forte demanda por produtos voltados para uso residencial. A preferência dos consumidores por produtos para uso doméstico é evidente, e investir nesse segmento pode ser estratégico.
 
-**5.4 Segmento Industrial:**  
+Segmento Industrial:
     
 * Apesar de modestos 3,49% das vendas, há oportunidades para crescimento.
 * Para alavancar esse crescimento pode:  
@@ -203,6 +216,9 @@ Pesquisa Profunda:
 
 **5.3 Principais Influenciadores de Vendas**
 
+![principais influciadores](https://github.com/user-attachments/assets/e2307ec1-dd93-40ee-8fc7-b8d101fe29cb)
+
+
 O painel de **Principais Influenciadores** no Power BI é uma ferramenta poderosa para entender os fatores que impactam o valor total de vendas. Vamos ver os detalhes:
 
 1. Segmentos e Categorias:  
@@ -225,6 +241,9 @@ O painel de **Principais Influenciadores** no Power BI é uma ferramenta poderos
      * Cuide dos produtos de eletroportáteis para otimizar o desempenho
 
 **5.4 Faixas de Vendas Por Categoria e Pontos de Vendas**  
+
+![faixas de vendas](https://github.com/user-attachments/assets/c89d89fd-f583-41f7-b2b4-2519f5e861d2)
+
 	  
 **Gráfico de Faixa:**
 * O gráfico de faixas é uma ferramenta visual que nos permite comparar categorias (neste caso, lojas) com base em uma métrica (vendas).  
@@ -246,7 +265,10 @@ Estratégias de Melhoria:
     * Identifique os obstáculos (por exemplo, localização, estoque, equipe).  
     * Crie estratégias específicas para impulsionar as vendas nessas lojas.
 
-	**5.5 Performance de Vendedores por Regiões**
+**5.5 Performance de Vendedores por Regiões**
+
+![perfomace vendedor](https://github.com/user-attachments/assets/cdc3d807-6e20-4ae6-ad54-313a81fc00d8)
+
 
 Este relatório oferece insights valiosos sobre o desempenho dos vendedores em cada estado. Vamos detalhar:
 
